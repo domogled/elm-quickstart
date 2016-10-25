@@ -1,27 +1,34 @@
-# Elm Quickstart
-This is a repository that can be cloned or copied in order to start a new basic
-Elm application. It sets up the following:
 
-* Basic HTML application with model, update, view and subscriptions.
-* Small utility module used to demonstrate testing.
-* npm setup to run build or tests.
+# <%= projectName %>
 
-To use this repository, you should follow these steps.
+## Development
 
-1. npm install -g elm
+Use with visual studo code extension pruga-elm-ide
 
-2. npm install -g elm-live
-
-3. npm install -g elm-test
-
-4. npm install
-
-5. npm run test
-
-6. npm run watch
-
-The *watch* step will run the elm-live build process and launch the browser.
-Future code changes will automatically trigger a rebuild and the browser will
-live reload with your changes.
+Navigate to <http://localhost:8081> (which loads your `index.html`).
 
 
+
+# elm links
+
+## elm lang
+
+- [elm-lang](http://elm-lang.org/)
+- [packages](http://package.elm-lang.org/)
+
+- [Learn Elm in Y minutes](https://learnxinyminutes.com/docs/elm/)
+- [czech version](https://www.zdrojak.cz/clanky/rychly-prehled-elm/)
+
+## elm on google groups
+
+- [elm-dev](https://groups.google.com/forum/#!forum/elm-dev)
+- [elm-discuss](https://groups.google.com/forum/#!forum/elm-discuss)
+
+## tutorials
+
+- [guide.elm-lang.org](http://guide.elm-lang.org/index.html)
+- [elm-tutorial](http://www.elm-tutorial.org/en/)
+
+## news
+
+- [elm-weekly](http://www.elmweekly.nl/)
